@@ -1,0 +1,86 @@
+[
+  {
+    "question": "Two or more diseases or conditions in a patient is refered to as:",
+    "choices": ["Sequela", "Comorbidity", "Prevalence", "Complication"],
+    "correctIndex": 1,
+    "feedback": "Comorbidity is correct."
+  },
+  {
+    "question": "An epidemic is a global disease outbreak.",
+    "choices": ["True", "False"],
+    "correctIndex": 1,
+    "feedback": "Pandemic is Global, Epidemic is Widespread (eg. Country)"
+  },
+  {
+    "question": "A client is complaining about neck pain that started when they woke up this morning. This is an example of an:",
+    "choices": ["Acute Condition", "Subacute Condition", "Chronic Condition", "Systemic Condition"],
+    "correctIndex": 0,
+    "feedback": "Acute is a condition that suddenly develops."
+  },
+  {
+    "question": "A client is complaining about soreness in their forearm. During assessment you can't see any redness or bruising in the area. This is an example of a Sign of a condition.",
+    "choices": ["True", "False"],
+    "correctIndex": 1,
+    "feedback": "A Sign is an objectively observable indication, whereas a Symptom is subjective and can't be seen"
+  },
+  {
+    "question": "Arthropods are an example of:",
+    "choices": ["Virus", "Bacteria", "Fungi", "Animal Parasite"],
+    "correctIndex": 3,
+    "feedback": "Example of Arthropods include Lice and Mites, which are Animal Parasites"
+  },
+  {
+    "question": "Itchiness is a common symptom of Mites of Lice.",
+    "choices": ["True", "False"],
+    "correctIndex": 0,
+    "feedback": "Redness from the itching can be a sign as well."
+  },
+  {
+    "question": "Which of these is an example of a Bacterial infection:",
+    "choices": ["Tinea Cruris", "Eczema Herpeticum", "Epidermodysplasia", "Cellulitis"],
+    "correctIndex": 3,
+    "feedback": "Tinea = Fungal, Eczema Herpeticum is a form of Herpes (Herpe), Epidermodysplasia is a genetic disease causing warts"
+  },
+  {
+    "question": "Which of these is the correct Chain of Transmission:",
+    "choices": ["Infectious Agent, Reservoir, Portal of Exit, Mode of Transmission, Portal of Entry, Susceptible Host", "Infectious Agent, Portal of Exit, Reservoir, Portal of Entry, Mode of Transmission, Susceptible Host", "Infectious Agent, Portal of Exit, Reservoir, Mode of Transmission, Susceptible Host", "Infectious Agent, Reservoir, Portal of Exit, Portal of Entry, Mode of Transmission, Susceptible Host"],
+    "correctIndex": 0,
+    "feedback": "For infection to spread, you need an INFECTION, which needs a RESERVOIR to live and grow in (eg. Human), a way to Spread of Leave the reservoir (PORTAL OF EXIT), A MODE OF TRANSPORTATION to get to a new host (Contact, Droplet, or Airborne), a way to enter the new host like a cut or breathing it in (PORTAL OF ENTRY), and a SUSCEPTIBLE HOST to infect, who may be vulnerable for a varity of reasons"
+  },
+  {
+    "question": "What best describes the role of Health Canada?:",
+    "choices": ["Improve health of Canadians by addressing health priorities through science, innovation, service delivery and collaborative action", "Enable informed decisions that protect and promote health and contribute to reducing health inequalities", "Coordinate infection prevention", "Help Canadians improve and maintain their health"],
+    "correctIndex": 3,
+    "feedback": "Health Canada = Improve and Maintain Health, Public Health Ontario = Enable informed decision, Regional Infection Control Networks (RICN) = Coordinate Infection Prevention, Public Health Agency of Canada = Improve health of Canadians by addressing health priorities through science, innovation, service delivery and collaborative action "
+  },
+  {
+    "question": "The removal of soil through manual or mechanical means is a definition of:",
+    "choices": ["Cleaning", "Disinfection", "Sterilization", "Sanitation"],
+    "correctIndex": 0,
+    "feedback": "Cleaning is the answer. Disinfection involves chemical/physical agents. Sterilization involves Baking or Pressurized cleaning, and Sanitation is the use of measures (eg. Cleaning/Disinfection/Sterilization) designed to promote health and prevent disease."
+  },
+    {
+    "question": "Which of these is not a typical mode of transmission for a disease?",
+    "choices": ["Sweat", "Synovial Fluid", "Blood", "Amniotic Fluid"],
+    "correctIndex": 0,
+    "feedback": "Sweat is not typically a transmission method."
+  },
+  {
+    "question": "Staphylococci is an example of a:",
+    "choices": ["Virus", "Fungi", "Bacteria", "Herpes"],
+    "correctIndex": 2,
+    "feedback": "Coccus is the singular term for a sperical bacterium. Cocci is the plural form."
+  },
+  {
+    "question": "Prevalence refers to the number of new cases of a disease during a specific period within a specific population.",
+    "choices": ["True", "False"],
+    "correctIndex": 1,
+    "feedback": "Prevalence is the number of cases that exist within a population during a specific period or moment, Incidence is the number of new cases."
+  },
+  {
+    "question": "Syndrome refers to a disease affecting the whole body",
+    "choices": ["True", "False"],
+    "correctIndex": 1,
+    "feedback": "Syndrome referes to a collection of signs and symptoms associated with a specific disease process; Systemic describes a whole-body involvement."
+  }
+]
